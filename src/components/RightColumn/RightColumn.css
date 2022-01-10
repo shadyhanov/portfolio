@@ -1,0 +1,32 @@
+.right_column {
+    margin-left: 20px;
+    width: 920px;
+}
+
+.xxLarge {
+    font-size: 38px;
+}
+
+.w3-text-teal {
+    color: rgb(20, 120, 160);
+}
+
+.w3-margin-right {
+    margin-right: 15px;
+}  
+
+.w3-white {
+    background-color: white;
+}
+
+.w3-text-grey {
+    color: grey;
+}
+
+.w3-padding-top {
+    padding-top: 15px;
+}
+
+.w3-padding-left {
+    padding-left: 20px;
+}

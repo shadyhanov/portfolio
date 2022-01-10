@@ -1,0 +1,59 @@
+h2 {
+    font-size: 30px;
+}
+
+.leftColumn {
+    max-width: 400px;
+    background-color: white;
+    margin-top: 25px;
+}
+
+.avatar {
+    width: 400px;
+    height: 400px;
+}
+
+.leftColumn h2 {
+    position: absolute;
+    width: 300px;
+    height: 61px;
+    background-color: rgb(7, 167, 79);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 31px;
+    color: black;
+    top: 47%;
+}
+
+.w3-margin-right {
+    margin-right: 15px;
+}
+
+.w3-large {
+    font-size: 18px;
+}
+
+.w3-text-teal {
+    color: rgb(20, 120, 160);
+}
+
+.w3-text-grey {
+    color: grey;
+}
+
+.w3-light-grey {
+    background-color: #f1f1f1;
+    border-radius: 16px;
+}
+
+.w3-teal {
+    background-color:rgb(20, 120, 160);
+    border-radius: 16px;
+}
+
+.w3-center {
+    text-align: center;
+}
