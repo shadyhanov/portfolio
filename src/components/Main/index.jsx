@@ -2,16 +2,17 @@ import React from "react";
 import { LeftColumn } from "../LeftColumn";
 import { RightColumn } from "../RightColumn";
 import { Footer } from "../Footer";
-import css from './Main.module.css'
+import './Main.css'
+import '../../styles/adaptive.css'
 
 export const MainPage = () => {
-    return <div>
-        <div className={css.mainPage}>
-            <div className={css.container}>
+    return <div className="main">
+        <div className="mainPage">
+            <div className="container">
                 <LeftColumn/>
                 <RightColumn/>
             </div>
-        </div>
             <Footer/>
+        </div>
     </div>
 }

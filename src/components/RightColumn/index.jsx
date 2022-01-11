@@ -1,5 +1,6 @@
 import React from "react";
 import './RightColumn.css';
+import '../../styles/adaptive.css'
 
 export const RightColumn = () => {
     return <div className="right_column">
