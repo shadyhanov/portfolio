@@ -24,7 +24,7 @@ export const RightColumn = () => {
         </div>
 
         <div className="w3-white" style={{paddingLeft: '15px', height: '280px'}}>
-            <h2 className="w3-text-teal w3-padding-top"> <i className="fa fa-certificate w3-text-teal w3-margin-right w3-xxLarge"></i> Achievements</h2>
+            <h2 className="w3-text-grey w3-padding-top"> <i className="fa fa-certificate w3-text-teal w3-margin-right w3-xxLarge"></i> Achievements</h2>
             <div>
                 <h5 className="w3-text-grey w3-padding-left">Certificate from school</h5>
                 <h6 className="w3-text-teal w3-padding-left"> <i className="fa fa-calendar w3-text-teal w3-margin-right"></i> June 2019</h6>

@@ -3,9 +3,14 @@ h2 {
 }
 
 .leftColumn {
-    max-width: 400px;
+    /* max-width: 450px; */
+    margin-top: 22px;
+    margin-left: 97px;
+    margin-bottom: 20px;
     background-color: white;
-    margin-top: 25px;
+    /* margin-top: 25px; */
+    /* margin-bottom: 15px; */
+    /* margin-left: 15px; */
 }
 
 .avatar {
@@ -27,12 +32,13 @@ h2 {
     color: black;
 }
 
-.w3-margin-right {
-    margin-right: 15px;
+.avatar_container div {
+    position: absolute;
+    margin-top: -93.80px;
 }
 
-.w3-large {
-    font-size: 18px;
+.w3-margin-right {
+    margin-right: 15px;
 }
 
 .w3-text-teal {
@@ -46,6 +52,7 @@ h2 {
 .w3-light-grey {
     background-color: #f1f1f1;
     border-radius: 16px;
+    margin-right: 15px;
 }
 
 .w3-teal {

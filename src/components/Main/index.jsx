@@ -11,8 +11,8 @@ export const MainPage = () => {
             <div className="container">
                 <LeftColumn/>
                 <RightColumn/>
+                <Footer/>
             </div>
-            <Footer/>
         </div>
     </div>
 }

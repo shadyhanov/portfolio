@@ -1,6 +1,7 @@
 .right_column {
+    /* margin-top: 5px; */
     margin-left: 20px;
-    width: 920px;
+    max-width: 920px;
 }
 
 .xxLarge {
